@@ -54,3 +54,4 @@ app.get('/logout',(req,res)=>{
 app.listen(3000,()=>{
     console.log('Servidor corriendo en el puero 3000');
 });
+//ruta para iniciar sesión
